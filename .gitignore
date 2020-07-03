@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea/vcs.xml
+.idea
+__pycache__/data_trend.cpython-36.pyc
+__pycache__/task_rerun.cpython-36.pyc
+logs/.DS_Store
+utils/__pycache__/__init__.cpython-36.pyc
+utils/__pycache__/mysql_util.cpython-36.pyc
+logs
+__pycache__
